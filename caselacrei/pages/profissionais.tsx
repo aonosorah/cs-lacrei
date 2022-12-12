@@ -10,7 +10,7 @@ export default function Profissionais() {
   return (
     <>
       <Head>
-        <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+        {/* <link rel="preconnect" href="https://fonts.googleapis.com"></link>
         <link
           rel="preconnect"
           href="https://fonts.gstatic.com"
@@ -19,7 +19,7 @@ export default function Profissionais() {
         <link
           href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap"
           rel="stylesheet"
-        ></link>
+        ></link> */}
       </Head>
       <div>
         <Header current={3} />

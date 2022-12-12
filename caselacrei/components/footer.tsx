@@ -45,7 +45,11 @@ export default function Footer({ current }: propsi) {
       <Section>
         <UlImg>
           <LiImg>
-            <a target="_blank" href="https://facebook.com/lacrei.saude">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://facebook.com/lacrei.saude"
+            >
               <Image
                 width={24}
                 height={24}
@@ -55,7 +59,11 @@ export default function Footer({ current }: propsi) {
             </a>
           </LiImg>
           <LiImg>
-            <a target="_blank" href="https://www.instagram.com/lacrei.saude/">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://www.instagram.com/lacrei.saude/"
+            >
               <Image
                 width={24}
                 height={24}
@@ -65,7 +73,11 @@ export default function Footer({ current }: propsi) {
             </a>
           </LiImg>
           <LiImg>
-            <a target="_blank" href="https://www.linkedin.com/company/lacrei/">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://www.linkedin.com/company/lacrei/"
+            >
               <Image
                 width={24}
                 height={24}

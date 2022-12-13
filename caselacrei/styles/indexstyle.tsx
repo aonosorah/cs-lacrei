@@ -51,6 +51,7 @@ export const Button1 = styled.button`
   font-size: 18px;
   line-height: 25px;
   color: #ffffff;
+  cursor: pointer;
 `;
 export const Button2 = styled.button`
   width: 192px;
@@ -63,4 +64,5 @@ export const Button2 = styled.button`
   font-size: 18px;
   line-height: 25px;
   color: #018762;
+  cursor: pointer;
 `;

@@ -18,6 +18,7 @@ export const Ul = styled.ul`
 export const Li = styled.li<styledp>`
   list-style: none;
   font-weight: ${({ currentPage }) => (currentPage ? '700' : '400')};
+  cursor: pointer;
 `;
 export const UlImg = styled.ul`
   display: flex;
